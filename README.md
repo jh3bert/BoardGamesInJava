@@ -1,9 +1,9 @@
 # Board Game Implementations
 
 Designed three different games:
-Tic-Tac-Toe
-Connect Four
-Othello
+Tic-Tac-Toe,
+Connect Four,
+Othello. For each game there is a (name of game)Game.java file that displays the game window.
 
 # Tic-Tac-Toe
 
